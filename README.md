@@ -2,7 +2,7 @@
 Google calendar in terminal.
 
 # Installation
-1. Use this <a target="_blank" href='https://developers.google.com/google-apps/calendar/quickstart/php#prerequisites'>link</a> to setup Google Calendar API.
+1. Use this <a target="_blank" href="https://developers.google.com/google-apps/calendar/quickstart/python">link</a> to setup Google Calendar API.
 2. Edit `mycalendar.sh` file and set your `mycalendar.py` file path.
 3. Make the scripts executable by issuing this command: `chmod +x mycalendar.sh mycalendar.py`.
 4. Now symlink by using: `ln -s /path/to/your/mycalendar.sh /usr/local/bin/mycalendar`.
