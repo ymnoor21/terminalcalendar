@@ -12,5 +12,5 @@ Google calendar in terminal.
 
 # Usage
 1. `mycalendar`
-2. `mycalendar -d 2016-04-01`
+2. `mycalendar -d 2016-04-01`; where -d specifies the date which want to lookup
 
