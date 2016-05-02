@@ -12,7 +12,7 @@ Google calendar in terminal.
 # Usage
 Run `mycalendar --help` or `mycalendar -h` to see the command line usage.
 
-1. `-d` where `-d` specifies the date which want to lookup
+1. `-d` specifies the date which want to lookup
 
 # Sample Command(s)
 1. `mycalendar`
