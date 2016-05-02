@@ -7,6 +7,10 @@ Google calendar in terminal.
 3. Make the scripts executable by issuing this command: `chmod +x mycalendar.sh mycalendar.py`.
 4. Run `python mycalendar.py` to setup API.
 5. Now symlink by using: `ln -s /path/to/your/mycalendar.sh /usr/local/bin/mycalendar`.
-6. Run `mycalendar` command. If you're running this command for the first time, the API will generate a link for you to browse. Copy & paste it in your browser. Then allow it to access your google calendar.
-7. Run `mycalendar` command again to get all your items in your terminal.
+6. Run `mycalendar` command. If you're running this command for the first time, the API will generate a link for you to browse. Copy & paste it in your browser. Login into using your google account. Then allow it to access your google calendar.
+7. Run `mycalendar -h` command to see how the command works.
+
+# Usage
+1. `mycalendar`
+2. `mycalendar -d 2016-04-01`
 
